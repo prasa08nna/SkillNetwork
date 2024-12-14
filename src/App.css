@@ -1,0 +1,49 @@
+.myimages {
+    height: 500px; 
+    /* object-fit: cover;  */
+    width: 90%; 
+    margin-left: 5%;
+  }
+  .myAbout{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 5%;
+    padding: 10px;
+  }
+  .myHeading{
+    font-size: 45px;
+  }
+  .myAbout p{
+    font-size: 20px;
+    text-align:justify ;
+  }
+  .mybutton{
+    width: 100px;
+    height: 45px;
+    font-size: 19px;
+    margin: 30px;
+  }
+  .mySignUp{
+    width:40%;
+    padding: 2%;
+     border:2px solid black; 
+    margin-left: 30%;
+  }
+  
+  .myHeadingSignUp{
+    margin-bottom: 40px;
+    font-size: 45px;
+  }
+  .myLogin{
+    width:40%;
+    padding: 2%;
+    border:2px solid black; 
+    margin-left: 30%;
+  }
+  .myHeadingLogin{
+    margin-bottom: 40px;
+    font-size: 36px;
+  }
+
+  
